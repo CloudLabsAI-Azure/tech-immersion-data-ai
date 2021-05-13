@@ -324,7 +324,7 @@ In this task, you will open the Bot Framework Emulator and start testing out you
 
 5. After a few moments, a new web browser window will open, displaying web page with the message, "Your Automotive Skill is ready!". **Leave this window open** and continue to the next task.
 
-  -Note: If you see any pop-up like **You have launced a old version of Firfox** then select **Create New Profile** to open the browser.
+  -Note: If you see any pop-up like **You have launched a old version of Firfox** then select **Create New Profile** to open the browser.
 
     ![The Enterprise Bot Template web page is displayed.](media/web-browser.png 'Web browser')
 
