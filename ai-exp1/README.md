@@ -324,6 +324,8 @@ In this task, you will open the Bot Framework Emulator and start testing out you
 
 5. After a few moments, a new web browser window will open, displaying web page with the message, "Your Automotive Skill is ready!". **Leave this window open** and continue to the next task.
 
+  -Note: If you see any pop-up like **You have launced a old version of Firfox** then select **Create New Profile** to open the browser.
+
     ![The Enterprise Bot Template web page is displayed.](media/web-browser.png 'Web browser')
 
 6. Open the Bot Framework Emulator by clicking on the search box next to the Start Menu on the bottom-left corner of your Windows desktop. Type **Bot Framework Emulator**, then select the Bot Framework Emulator desktop app in the search results.
@@ -484,11 +486,11 @@ If you recall, the bot deployment script created Azure services, generated a .bo
 
     ![The resource groups are listed.](media/resource-groups.png 'Resource Groups')
 
-3. Locate the Application Insights resource and select it.
+3. Locate the Application Insights resource with the name of ti-XXXXXX-XXX and select it.
 
     ![Application Insights is highlighted within the resource group.](media/resource-group-app-insights.png 'Resource group view')
 
-4. Select **Live Metrics Stream** in the left-hand menu.
+4. Select **Live Metrics** in the left-hand menu.
 
     ![The Live Metrics Stream menu link is highlighted.](media/live-metrics-stream-link.png 'Application Insights')
 
