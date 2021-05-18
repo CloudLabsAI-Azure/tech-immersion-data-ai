@@ -101,7 +101,7 @@ In this exercise, you will create a model that predicts battery failure from tim
     - Validation > Number of Cross Validations: **5**
     - Concurrency > Max concurrent iterations: **1**
 
-    ![Configuring the Advanced Settings as described](./media/011_TaskConfigurationSettings.png)
+    ![Configuring the Advanced Settings as described](./media/ai-experiment.png)
 
     > Note that we are setting a metric score threshold to limit the training time. In practice, for initial experiments, you will typically only set the training job time to allow AutoML to discover the best algorithm to use for your specific data.
 
