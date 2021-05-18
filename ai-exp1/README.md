@@ -488,11 +488,11 @@ If you recall, the bot deployment script created Azure services, generated a .bo
 
 3. Locate the Application Insights resource with the name of ti-XXXXXX-XXX and select it.
 
-    ![Application Insights is highlighted within the resource group.](media/resource-group-app-insights.png 'Resource group view')
+    ![Application Insights is highlighted within the resource group.](media/ai-appinsights.png 'Resource group view')
 
 4. Select **Live Metrics** in the left-hand menu.
 
-    ![The Live Metrics Stream menu link is highlighted.](media/live-metrics-stream-link.png 'Application Insights')
+    ![The Live Metrics Stream menu link is highlighted.](media/ai-livemetrics.png 'Application Insights')
 
 5. Open the **Bot Framework Emulator** and begin entering phrases in the live chat, such as:
 
