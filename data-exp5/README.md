@@ -114,7 +114,7 @@ In this experience, ​​you will see how you can use the capabilities of Azure
 
     ![Setting the file path to the input file](media/16-set-file-path.png)
 
-20. Select **Finish**.
+20. Select **OK**.
 
 21. You now have your source CSV file configured in the data flow.
 
@@ -251,7 +251,7 @@ In this experience, ​​you will see how you can use the capabilities of Azure
 
 3.  Select **Monitor** from the menu tabs on the left. Watch the status of your pipeline as it runs. Select **Refresh** at any point to update the listing. It should take **about 7 minutes** to completely execute your pipeline.
 
-4.  When the pipeline has completed, navigate to the `tech-immersion-XXXXX` resource group, select the `samplefiles` storage account and select **Blobs** and then the `data` folder.
+4.  When the pipeline has completed, navigate to the `tech-immersion-XXXXX` resource group, select the `techimmersionstrgxxxx`storage account and select **Blobs** and then the `data` folder.(where XXXXX is the unique identifier assigned to you for this workshop).)
 
     ![Select blobs in the Azure Storage account](media/37-select-blobs.png)
 
@@ -275,7 +275,7 @@ In this task, you will set up your ADLS Gen2 filesystem, and then review and exe
 
    ![containers](media/sa-container-overview.png)
 
-4. Select **+ container** and in the dialog that appears enter `contosoauto` for the name of the container and select **OK**.
+4. Select **+ container** and in the dialog that appears enter `contosoauto` for the name of the container and select **Create**.
 
    ![containers add](media/contoso-container.png)
 
